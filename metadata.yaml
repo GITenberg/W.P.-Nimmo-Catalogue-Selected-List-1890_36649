@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38395'
     url: http://www.gutenberg.org/2009/agents/38395
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36649#W.P.-Nimmo-Catalogue-Selected-List-1890
 gutenberg_issued: '2011-07-07'
 gutenberg_type: Text
 identifiers:
